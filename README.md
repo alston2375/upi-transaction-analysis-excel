@@ -6,9 +6,15 @@ Built by following the [UPI Analysis Dashboard tutorial](https://www.youtube.com
 
 ## Project overview
 
-This workbook brings transaction-level data and Excel summaries together to explore UPI payment activity. The dataset includes multiple payment apps, so the project covers UPI transactions rather than only PhonePe.
+What drives UPI payment activity, when do transactions peak, and how do payment outcomes vary? This interactive Excel dashboard brings these questions into one view across all UPI apps represented in the dataset.
 
-## Tools and features
+It combines transaction counts, payment value, cashback, success rate and suspected-fraud indicators with daily trends, state-level comparisons, bank performance and hourly activity. Slicers let viewers explore patterns by gender, city, merchant and merchant category, connecting headline metrics with the segments behind them.
+
+## Dashboard preview
+
+![UPI transaction dashboard showing payment metrics, app distribution, geographic patterns and hourly activity](dashboard.png)
+
+## Tools and features## Tools and features
 
 - Microsoft Excel
 - PivotTables and charts
@@ -44,4 +50,8 @@ The video description provides a download link but does not state explicit redis
 
 ## Scope
 
-This is an independent learning and portfolio project. It is not affiliated with PhonePe or other payment providers represented in the dataset.
+The project explores transaction behaviour across all UPI apps included in the supplied dataset, covering payment volumes and values, transaction status, cashback, banks, states, transaction types and time-based patterns. It demonstrates Excel skills in summarising transaction data, building PivotTables and charts, designing KPI cards and connecting interactive slicers to a dashboard.
+
+The analysis describes the supplied dataset and its selected filters; it does not represent the entire UPI market or a live transaction feed. Suspected-fraud figures reflect the dataset's flags and should not be interpreted as confirmed fraud.
+
+Developed as a guided learning and portfolio project using Data Tutorials resources, with no affiliation to the payment providers shown.
