@@ -46,7 +46,7 @@ The full workbook is approximately 100 MB and is provided as a release attachmen
 
 The input workbook is `phonepay_raw_data.xlsx`, with a source worksheet named `data`. The dataset was obtained from the tutorial resources. It has not been independently verified as real or synthetic, and it is not presented here as official PhonePe data.
 
-The video description provides a download link but does not state explicit redistribution terms. This private repository is being reviewed before public sharing.
+The video description provides a download link but does not state explicit redistribution terms. 
 
 ## Scope
 
