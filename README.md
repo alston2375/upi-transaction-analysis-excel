@@ -14,7 +14,7 @@ It combines transaction counts, payment value, cashback, success rate and suspec
 
 ![UPI transaction dashboard showing payment metrics, app distribution, geographic patterns and hourly activity](dashboard.png)
 
-## Tools and features## Tools and features
+## Tools and features
 
 - Microsoft Excel
 - PivotTables and charts
